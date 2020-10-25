@@ -1,0 +1,62 @@
+/* LOGO SECTION */
+#pricing {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.card-title {
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.col-card {
+  text-align: center;
+}
+
+.card {
+  margin: 0 3%;
+}
+
+.card-text {
+  text-align: left;
+  margin-left: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #75736e;
+  font-size: 1.1rem;
+}
+
+.fa-check-square {
+  margin-right: 5px;
+}
+
+.card-footer {
+  background-color: #fff;
+}
+
+.card-footer {
+  background-color: #8c8a85;
+}
+
+.price-text {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: 3rem;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: line-through;
+}
+
+.outer {
+  color: red;
+  text-decoration: line-through;
+}
+
+.inner {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 2.5rem;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+}
