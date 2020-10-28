@@ -2,6 +2,21 @@ body {
   background-color: #8CC3F2;
 }
 
+/* TITLE SECTION */
+#title {
+  text-align: center;
+  margin-top: 3%;
+}
+
+.title-text {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+}
+
+.title-logo-image {
+  margin-bottom: 1%;
+}
+
 /* LOGO SECTION */
 #pricing {
   text-align: center;
